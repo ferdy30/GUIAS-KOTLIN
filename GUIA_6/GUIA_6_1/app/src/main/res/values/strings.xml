@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GUIA_4_1</string>
+    <string name="nombres">Nombres</string>
+    <string name="login">LOGIN</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+</resources>
